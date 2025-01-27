@@ -31,32 +31,56 @@ Project Architecture
 
 Schema Overview
 1.	Product
+   
       o	id: Product ID
+  	
       o	name: Product Name
+  	
       o	currentPrice: Current Price
+  	
       o	availableQuantity: Quantity in Stock
-2.	City
+  	
+3.	City
+   
       o	zip: ZIP Code
+  	
       o	city: City Name
+  	
       o	state: State Name
-3.	Customer
+  	
+5.	Customer
       o	id: Customer ID
+  	
       o	firstName: First Name
+  	
       o	lastName: Last Name
+  	
       o	email: Email Address
+  	
       o	address1: Primary Address
+  	
       o	address2: Secondary Address (optional)
+  	
       o	phone: Phone Number
+  	
       o	birthdate: Birthdate
+  	
       o	zip: ZIP Code (linked to City)
-4.	Order
+  	
+7.	Order
       o	id: Order ID
+  	
       o	datePlaced: Date the order was placed
+  	
       o	dateShipped: Shipping Date
+  	
       o	customer_id: Linked Customer ID
-5.	Orderline
+  	
+9.	Orderline
       o	order_id: Linked Order ID
+  	
       o	product_id: Linked Product ID
+  	
       o	quantity: Quantity ordered
 
 Aggregate Tables
