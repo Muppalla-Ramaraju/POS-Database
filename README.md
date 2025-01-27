@@ -1,4 +1,4 @@
-# POS-Database
+# ETL and Data Aggregation Project
 POS Database ETL, Aggregation, and MongoDB P2P Clustering
 
 **Overview**
