@@ -1,5 +1,5 @@
 # ETL and Data Aggregation Project
-POS Database ETL, Aggregation, and MongoDB P2P Clustering
+POS Database ETL, Aggregation, and P2P Clustering
 
 **Overview**
 
