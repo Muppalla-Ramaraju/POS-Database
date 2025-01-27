@@ -101,10 +101,3 @@ MongoDB
 2. Get all products purchased by customers in a specific city (e.g., "Houston"):
 
 3. List all products with their buyers:
-
-
-
-
-
-![image](https://github.com/user-attachments/assets/014a04ce-0546-4d53-9833-f202f0b6a7b0)
-                   Fig 1: ERD for my POS database
