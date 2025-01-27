@@ -14,7 +14,7 @@ Key Features
       	Loading processed data into a MongoDB cluster for distributed access.
        
     Data Aggregation:
-        Generation of insightful business reports, including revenue, sales trends, and customer behavior.
+            Generation of insightful business reports, including revenue, sales trends, and customer behavior.
         
     MariaDB P2P Clustering:
      	Replication of data across distributed nodes for high availability and fault tolerance.
