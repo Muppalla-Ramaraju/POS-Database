@@ -23,9 +23,10 @@ This project focuses on implementing an ETL (Extract, Transform, Load) pipeline 
    
 **Project Architecture
 **
-Data Extraction: Extract raw sales, inventory, and customer data from the POS database via SQL queries.
-Data Transformation: Cleanse and normalize data for consistency. Aggregate transactional data to support business intelligence. Format data to align with MongoDB document structure.
-Data Loading: Insert transformed data into MongoDB collections. Implement indexing strategies for optimized retrieval.
+
+    Data Extraction: Extract raw sales, inventory, and customer data from the POS database via SQL queries.
+    Data Transformation: Cleanse and normalize data for consistency. Aggregate transactional data to support business intelligence. Format data to align with MongoDB document structure.
+    Data Loading: Insert transformed data into MongoDB collections. Implement indexing strategies for optimized retrieval.
 
 ![image](https://github.com/user-attachments/assets/7f4fe782-46a5-430a-8e2d-4b747e93493b)
 
