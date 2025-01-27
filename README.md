@@ -21,8 +21,7 @@ This project focuses on implementing an ETL (Extract, Transform, Load) pipeline 
  	  Implementation of sharding strategies to optimize query performance.
   	Ensuring data consistency and synchronization across the cluster.
    
-**Project Architecture
-**
+Project Architecture
 
     Data Extraction: Extract raw sales, inventory, and customer data from the POS database via SQL queries.
     Data Transformation: Cleanse and normalize data for consistency. Aggregate transactional data to support business intelligence. Format data to align with MongoDB document structure.
