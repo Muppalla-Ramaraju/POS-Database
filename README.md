@@ -8,15 +8,15 @@ This project focuses on implementing an ETL (Extract, Transform, Load) pipeline 
 
 Key Features
 
-    •	ETL Pipeline Implementation
+    ETL Pipeline Implementation:
       	Extraction of transactional data from the POS relational database.
       	Transformation to optimize data structure and prepare it for analytical workloads.
       	Loading processed data into a MongoDB cluster for distributed access.
        
-    •	Data Aggregation
+    Data Aggregation:
         Generation of insightful business reports, including revenue, sales trends, and customer behavior.
         
-    •	MariaDB P2P Clustering
+    MariaDB P2P Clustering:
      	  Replication of data across distributed nodes for high availability and fault tolerance.
      	  Implementation of sharding strategies to optimize query performance.
       	Ensuring data consistency and synchronization across the cluster.
