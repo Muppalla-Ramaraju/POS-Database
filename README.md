@@ -1,4 +1,4 @@
-# ETL and Data Aggregation Project
+# ETL and Data Migration Project
 POS Database ETL, Aggregation, and P2P Clustering
 
 **Overview**
