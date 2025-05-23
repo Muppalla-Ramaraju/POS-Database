@@ -1,4 +1,4 @@
-# ETL and Data Migration Project
+# Scalable POS Database on AWS Architecture
 POS Database ETL, Aggregation, and P2P Clustering
 
 **Overview**
